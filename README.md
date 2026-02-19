@@ -13,7 +13,7 @@ A complete Data Science project integrating **Machine Learning, Linear Algebra, 
 ## 🔎 Key Results
 
 - ✔ kNN classification significantly outperformed dummy baselines  
-- ✔ Linear Regression achieved **RMSE ≈ 0.3637** and **R² ≈ 0.66**  
+- ✔ Linear Regression achieved **RMSE ≈ 0.3637** and **R² ≈ 0.42**  
 - ✔ Feature scaling proved essential for distance-based models  
 - ✔ Data obfuscation preserved predictions with **0.00% performance loss**  
 - ✔ Analytical proof + computational validation included  
