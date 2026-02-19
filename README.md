@@ -71,7 +71,7 @@ $$
 
 **Performance:**
 
-- RMSE: ~0.34  
+- RMSE: ~0.36  
 - R²: ~0.66  
 
 The model explains approximately 66% of variance in claim counts.
